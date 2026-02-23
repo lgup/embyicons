@@ -15,6 +15,26 @@
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/JMS.jpg"
     },
     {
+      "name": "hualu",
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/hualu.jpg"
+    },
+    {
+      "name": "UHD",
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/UHD.jpg"
+    },
+    {
+      "name": "eoos",
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/eoos.jpg"
+    },
+    {
+      "name": "jingzhe",
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/jingzhe.jpg"
+    },
+    {
+      "name": "nihao",
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/nihao.jpg"
+    },
+    {
       "name": "Kiku",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/Kiku.jpg"
     },
@@ -105,18 +125,6 @@
     {
       "name": "Feilegemiao",
       "url": "https://cdn.picui.cn/vip/2026/01/04/6959fdc18cc77.jpg"
-    },
-    {
-      "name": "Jingzhi",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fdc717f3d.jpg"
-    },
-    {
-      "name": "hello",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fdcb7808f.jpg"
-    },
-    {
-      "name": "hello1",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fdd01e775.jpg"
     },
     {
       "name": "JSQ",
@@ -635,26 +643,6 @@
       "url": "https://cdn.imgos.cn/vip/2026/02/13/698f49c530ed0.png"
     },
     {
-      "name": "惊蛰马年限定2",
-      "url": "https://cdn.imgos.cn/vip/2026/02/13/698f49cb9bcc5.jpg"
-    },
-    {
-      "name": "惊蛰马年限定3",
-      "url": "https://cdn.imgos.cn/vip/2026/02/13/698f49d22f857.png"
-    },
-    {
-      "name": "惊蛰马年限定1",
-      "url": "https://cdn.imgos.cn/vip/2026/02/13/698f49d8d6229.png"
-    },
-    {
-      "name": "惊蛰黑",
-      "url": "https://cdn.imgos.cn/vip/2026/02/13/698f49df03c21.png"
-    },
-    {
-      "name": "惊蛰白",
-      "url": "https://cdn.imgos.cn/vip/2026/02/13/698f49e54c69b.png"
-    },
-    {
       "name": "3吹大牛潮人版",
       "url": "https://cdn.imgos.cn/vip/2026/02/13/698f49eb3923a.jpg"
     },
@@ -669,10 +657,6 @@
     {
       "name": "KL_fang",
       "url": "https://cdn.imgos.cn/vip/2026/02/14/6990808f1a021.jpg"
-    },
-    {
-      "name": "Eoos",
-      "url": "https://cdn.imgos.cn/vip/2026/02/14/6990823b1e9f4.jpg"
     },
     {
       "name": "yuanwei",
