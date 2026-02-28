@@ -3,10 +3,6 @@
   "description": "",
   "icons": [
     {
-      "name": "SaturDay.Lite",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/695959d7a1e28.png"
-    },
-    {
       "name": "LL",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/LL.jpg"
     },
@@ -79,10 +75,6 @@
       "url": "https://cdn.picui.cn/vip/2026/01/04/6959fd8631fb6.jpg"
     },
     {
-      "name": "Dabotv",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fd8a525b2.jpg"
-    },
-    {
       "name": "Nayovo",
       "url": "https://cdn.picui.cn/vip/2026/01/04/6959fd92d35d0.jpg"
     },
@@ -91,16 +83,8 @@
       "url": "https://cdn.picui.cn/vip/2026/01/04/6959fd98589a5.jpg"
     },
     {
-      "name": "Nijigen",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fd9c63efc.png"
-    },
-    {
       "name": "Hohai",
       "url": "https://cdn.picui.cn/vip/2026/01/04/6959fda1391f1.jpg"
-    },
-    {
-      "name": "Dada",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fda58fe58.jpg"
     },
     {
       "name": "Shrek1",
