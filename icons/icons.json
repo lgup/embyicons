@@ -3,11 +3,11 @@
   "description": "",
   "icons": [
     {
-      "name": "LL",
+      "name": "拉拉",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/LL.jpg"
     },
     {
-      "name": "JMS",
+      "name": "卷毛鼠",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/JMS.jpg"
     },
     {
@@ -15,7 +15,7 @@
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/ryan.jpg"
     },
     {
-      "name": "xigua",
+      "name": "西瓜2",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/xigua2.jpg"
     },
     {
@@ -23,7 +23,7 @@
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/we.jpg"
     },
     {
-      "name": "hualu",
+      "name": "Hualu",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/hualu.jpg"
     },
     {
@@ -35,11 +35,11 @@
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/eoos.jpg"
     },
     {
-      "name": "jingzhe",
+      "name": "惊蛰",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/jingzhe.jpg"
     },
     {
-      "name": "nihao",
+      "name": "泥嚎",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/nihao.jpg"
     },
     {
@@ -51,217 +51,8 @@
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/HKA.jpg"
     },
     {
-      "name": "Shrek",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/69595a04ad8ca.png"
-    },
-    {
-      "name": "Cookie",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fd6f79d43.jpg"
-    },
-    {
-      "name": "LE",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fd77c4c82.jpg"
-    },
-    {
-      "name": "404",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fd7c0e241.jpg"
-    },
-    {
-      "name": "Misaya",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fd83137f5.jpg"
-    },
-    {
-      "name": "Doubon",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fd8631fb6.jpg"
-    },
-    {
-      "name": "Nayovo",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fd92d35d0.jpg"
-    },
-    {
-      "name": "Nya",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fd98589a5.jpg"
-    },
-    {
-      "name": "Hohai",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fda1391f1.jpg"
-    },
-    {
-      "name": "Shrek1",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fda977a2c.jpg"
-    },
-    {
-      "name": "OK",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fdad0c999.jpg"
-    },
-    {
-      "name": "Yezi1",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fdb15dfca.jpg"
-    },
-    {
-      "name": "Yezi",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fdb4e4058.jpg"
-    },
-    {
-      "name": "Feilegemiao",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fdc18cc77.jpg"
-    },
-    {
-      "name": "JSQ",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fdd3a297e.jpg"
-    },
-    {
-      "name": "Wenjian",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fdd77821e.jpg"
-    },
-    {
-      "name": "Peach",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/695951a00620c.jpg"
-    },
-    {
-      "name": "Feiyue",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fdde83afa.jpg"
-    },
-    {
-      "name": "Qidianzhan",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fde201ea3.jpg"
-    },
-    {
-      "name": "SNTP",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fde5243e2.jpg"
-    },
-    {
-      "name": "Liminal Lite",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fde91345e.jpg"
-    },
-    {
-      "name": "Liminal",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fded1017c.jpg"
-    },
-    {
-      "name": "NubeBelle",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fdf27db83.jpg"
-    },
-    {
-      "name": "Yuebing",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fdf67dec6.jpg"
-    },
-    {
-      "name": "Lily",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fe03ce413.jpg"
-    },
-    {
-      "name": "Laoyouji",
-      "url": "https://cdn.picui.cn/vip/2026/01/04/6959fe221d4eb.jpg"
-    },
-    {
-      "name": "XYZ",
+      "name": "小姨子",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/XYZ.jpg"
     },
-    {
-      "name": "ETFLIXEmby",
-      "url": "https://cdn.picui.cn/vip/2026/01/05/695b533b4bd1a.png"
-    },
-    {
-      "name": "moyunge",
-      "url": "https://cdn.picui.cn/vip/2026/01/08/695fcc95dd0a8.jpeg"
-    },
-    {
-      "name": "Youno Pro",
-      "url": "https://cdn.picui.cn/vip/2026/01/08/695fcd771f791.jpeg"
-    },
-    {
-      "name": "shenmiliwu",
-      "url": "https://cdn.picui.cn/vip/2026/01/08/695fcde11f2b4.jpeg"
-    },
-    {
-      "name": "Msky",
-      "url": "https://cdn.picui.cn/vip/2026/01/09/696111e6b3dc9.jpg"
-    },
-    {
-      "name": "ME",
-      "url": "https://cdn.picui.cn/vip/2026/01/13/69659e8e73710.jpg"
-    },
-    {
-      "name": "xigua",
-      "url": "https://cdn.picui.cn/vip/2026/01/13/6965e4d336aa2.jpg"
-    },
-    {
-      "name": "HG",
-      "url": "https://cdn.picui.cn/vip/2026/01/14/6966eb9e8c352.jpg"
-    },
-    {
-      "name": "FJY",
-      "url": "https://cdn.picui.cn/vip/2026/01/14/696749b147457.jpg"
-    },
-    {
-      "name": "shayu",
-      "url": "https://cdn.imgos.cn/vip/2026/01/18/696cc71684614.jpeg"
-    },
-    {
-      "name": "ETFLIX",
-      "url": "https://cdn.imgos.cn/vip/2026/01/22/6971ba489cc0e.png"
-    },
-    {
-      "name": "AIemby",
-      "url": "https://cdn.imgos.cn/vip/2026/01/23/69734c1a3ac1b.png"
-    },
-    {
-      "name": "EBS",
-      "url": "https://cdn.imgos.cn/vip/2026/01/23/697389681d3ed.png"
-    },
-    {
-      "name": "GUAI哥哥追新",
-      "url": "https://cdn.imgos.cn/vip/2026/01/25/6974fdeb55915.jpg"
-    },
-    {
-      "name": "Unbound",
-      "url": "https://cdn.imgos.cn/vip/2026/01/25/69750c3213053.jpg"
-    },
-    {
-      "name": "mdl",
-      "url": "https://cdn.imgos.cn/vip/2026/01/25/69761849adb86.jpeg"
-    },
-    {
-      "name": "MiraiEmby",
-      "url": "https://cdn.imgos.cn/vip/2026/01/26/6977808d27083.jpg"
-    },
-    {
-      "name": "Mirai",
-      "url": "https://cdn.imgos.cn/vip/2026/01/26/697789e1c28f9.jpg"
-    },
-    {
-      "name": "gousheng",
-      "url": "https://cdn.imgos.cn/vip/2026/01/26/69775d81ab90e.jpg"
-    },
-    {
-      "name": "翀のPorn私服",
-      "url": "https://cdn.imgos.cn/vip/2026/01/31/697e13544f02f.png"
-    },
-    {
-      "name": "xxm小虾米",
-      "url": "https://cdn.imgos.cn/vip/2026/02/07/6986c21c15c8a.jpg"
-    },
-    {
-      "name": "youno_plus",
-      "url": "https://cdn.imgos.cn/vip/2026/02/07/6986c57f34d20.jpeg"
-    },
-    {
-      "name": "LiuYingShe Lite",
-      "url": "https://cdn.imgos.cn/vip/2026/02/08/698785accd875.jpg"
-    },
-    {
-      "name": "Niubi",
-      "url": "https://cdn.imgos.cn/vip/2026/02/12/698d28af8445b.jpg"
-    },
-    {
-      "name": "Nice",
-      "url": "https://cdn.imgos.cn/vip/2026/02/13/698ea2fb790ec.jpeg"
-    },
-    {
-      "name": "SNTP+",
-      "url": "https://cdn.imgos.cn/vip/2026/02/13/698f49af2d2c1.png"
-    },
-
   ]
 }
