@@ -4,7 +4,7 @@
   "icons": [
     {
       "name": "SNTP",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/SNTP.jpg"
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/sntp.jpg"
     },
     {
       "name": "冰镇西瓜",
@@ -16,15 +16,15 @@
     },
     {
       "name": "卷毛鼠",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/JMS.jpg"
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/jms.jpg"
     },
     {
       "name": "Kiku",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/KikuNew.jpg"
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/kiku.jpg"
     },
     {
       "name": "Peach公益",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/Peach.jpg"
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/peach.jpg"
     },
     {
       "name": "见手青公益",
@@ -35,32 +35,40 @@
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/yuebing.jpg"
     },
     {
+      "name": "非越 Emby",
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/feiyue.jpg"
+    },
+    {
+      "name": "叶子网盘服",
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/yeziw.jpg"
+    },
+    {
       "name": "飞了个喵",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/feilegemiao.jpg"
     },
     {
       "name": "拉拉",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/LL.jpg"
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/ll.jpg"
     },
     {
       "name": "MDL",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/MDL.jpg"
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/mdl.jpg"
     },
     {
       "name": "小姨子",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/XYZ.jpg"
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/xyz.jpg"
     },
     {
       "name": "UHD",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/UHD.jpg"
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/uhd.jpg"
     },
     {
       "name": "HOHAI",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/HOHAI.jpg"
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/hohai.jpg"
     },
     {
       "name": "Mirai",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/Mirai.jpg"
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/mirai.jpg"
     },
     {
       "name": "404",
@@ -72,7 +80,7 @@
     },
     {
       "name": "Nayovo",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/Nayovo.jpg"
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/nayovo.jpg"
     },
     {
       "name": "起点站",
@@ -80,11 +88,11 @@
     },
     {
       "name": "OkEmby",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/OkEmby.jpg"
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/okemby.jpg"
     },
     {
       "name": "Nya",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/Nya.jpg"
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/nya.jpg"
     },
     {
       "name": "翀",
@@ -92,11 +100,15 @@
     },
     {
       "name": "Le Emby",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/LE.jpg"
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/le.jpg"
     },
     {
       "name": "Ryan Emby",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/ryan.jpg"
+    },
+    {
+      "name": "KLEmby",
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/klemby.jpg"
     },
     {
       "name": "WE Emby",
@@ -112,7 +124,11 @@
     },
     {
       "name": "Msky-GF",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/Msky.jpg"
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/msky.jpg"
+    },
+    {
+      "name": "Shrek公益",
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/shrek.jpg"
     },
     {
       "name": "佬友记",
@@ -124,11 +140,11 @@
     },
     {
       "name": "HKA",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/HKA.jpg"
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/hka.jpg"
     },
     {
-      "name": "Unbound Emby",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/Unbound.jpg"
+      "name": "UnboundEmby",
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/unbound.jpg"
     },
     {
       "name": "Gousheng",
@@ -140,7 +156,7 @@
     },
     {
       "name": "CookieEmby",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/cookieemby.jpg"
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/cookie.jpg"
     },
     {
       "name": "Niubi",
