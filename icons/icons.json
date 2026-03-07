@@ -175,12 +175,16 @@
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/yizhi.jpg"
     },
     {
-      "name": "HelloHK Emby",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/hellohk.jpg"
-    },
-    {
       "name": "鲲鹏ROC",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/kunpeng.jpg"
+    },
+    {
+      "name": "折纸",
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/zhezhi.jpg"
+    },
+    {
+      "name": "悲伤小鸡",
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/beishangxiaoji.jpg"
     },
   ]
 }
