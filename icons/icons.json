@@ -99,10 +99,6 @@
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/le.jpg"
     },
     {
-      "name": "Ryan Emby",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/ryan2.jpg"
-    },
-    {
       "name": "KLEmby",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/klemby.jpg"
     },
@@ -121,22 +117,6 @@
     {
       "name": "Shrek公益",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/shrek.jpg"
-    },
-    {
-      "name": "佬友记",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/laoyouji.jpg"
-    },
-    {
-      "name": "HKA",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/hka.jpg"
-    },
-    {
-      "name": "UnboundEmby",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/unbound.jpg"
-    },
-    {
-      "name": "Gousen",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/gousen.jpg"
     },
     {
       "name": "Hualu",
@@ -173,10 +153,6 @@
     {
       "name": "悲伤小鸡",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/beishangxiaoji.jpg"
-    },
-    {
-      "name": "不吃香菜",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/buchixiangcai.jpg"
     },
     {
       "name": "小虾米",
@@ -229,10 +205,6 @@
     {
       "name": "憨豆",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/handou.jpg"
-    },
-    {
-      "name": "cherry",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/cherry.jpg"
     },
     {
       "name": "二次元",
@@ -299,10 +271,6 @@
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/cherryporn.jpg"
     },
     {
-      "name": "梦工厂",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/mgc.jpg"
-    },
-    {
       "name": "乐蛙",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/lewa.jpg"
     },
@@ -327,14 +295,6 @@
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/moyunge.jpg"
     },
     {
-      "name": "DPeak",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/dpeak.jpg"
-    },
-    {
-      "name": "厕纸Emby",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/cezhi.jpg"
-    },
-    {
       "name": "GUAIPORN",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/GUAIPORN.jpg"
     },
@@ -353,10 +313,6 @@
     {
       "name": "云海",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/yunhai.jpg"
-    },
-    {
-      "name": "cat emby",
-      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/catemby.jpg"
     },
     {
       "name": "步兵营地",
@@ -393,6 +349,10 @@
     {
       "name": "me",
       "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/me.jpg"
+    },
+    {
+      "name": "野草地",
+      "url": "https://raw.githubusercontent.com/lgup/embyicons/main/icons/yecao.jpg"
     },
   ]
 }
